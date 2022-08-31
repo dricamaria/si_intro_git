@@ -1,5 +1,9 @@
-database
+database:
   user: adriana
-  password:123
-server
+  password: 123
+server:
   port: 8080
+  host: "localhost"
+  email: 
+  user: "dri_dricamaria@hotmail.com"
+  password: 123456
